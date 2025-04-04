@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Kor Devs 🦉
+## Bem-vindo(a) ao perfil da Kor Software House 🦉
 
  <div>
    <a href="https://github.com/kor-devs">
